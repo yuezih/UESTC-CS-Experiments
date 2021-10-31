@@ -1,0 +1,9 @@
+@attribute no_surfacing {'yes','no'}
+@attribute flippers {'yes','no'}
+@attribute fish {'yes','no'}
+@data
+'yes','yes','yes'
+'yes','yes','yes'
+'yes','no','no'
+'no','yes','no'
+'no','yes','no'
