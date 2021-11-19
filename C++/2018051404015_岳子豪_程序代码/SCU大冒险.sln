@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCU大冒险", "SCU大冒险\SCU大冒险.vcxproj", "{9D9349F3-4E94-4E13-BBF5-104C5A126834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D9349F3-4E94-4E13-BBF5-104C5A126834}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D9349F3-4E94-4E13-BBF5-104C5A126834}.Debug|Win32.Build.0 = Debug|Win32
+		{9D9349F3-4E94-4E13-BBF5-104C5A126834}.Release|Win32.ActiveCfg = Release|Win32
+		{9D9349F3-4E94-4E13-BBF5-104C5A126834}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

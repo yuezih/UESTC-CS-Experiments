@@ -1,0 +1,82 @@
+﻿生成启动时间为 2020/12/21 22:41:26。
+     1>项目“D:\newdesktop\2018051404015_岳子豪_程序代码\SCU大冒险\SCU大冒险.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\SCU大冒险.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt acllib.c
+         acllib.c
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Base.cpp Huaxi.cpp main.cpp Prop.cpp SCU.cpp STUCD.cpp UESTC.cpp
+         UESTC.cpp
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(43): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(44): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(47): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(48): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(51): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(52): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(55): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(56): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(63): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.cpp(64): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+         STUCD.cpp
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\stucd.cpp(21): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+         SCU.cpp
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.cpp(46): warning C4101: “h”: 未引用的局部变量
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.cpp(73): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.cpp(74): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.cpp(78): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.cpp(79): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+         Prop.cpp
+         main.cpp
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\uestc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\main.cpp(79): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\main.cpp(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+         Huaxi.cpp
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(35): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(37): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(42): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(44): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(49): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(51): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(56): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(58): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(65): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\newdesktop\2018051404015_岳子豪_程序代码\scu大冒险\huaxi.cpp(66): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+         Base.cpp
+         正在生成代码...
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\newdesktop\2018051404015_岳子豪_程序代码\Debug\SCU大冒险.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SCU大冒险.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\newdesktop\2018051404015_岳子豪_程序代码\Debug\SCU大冒险.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\newdesktop\2018051404015_岳子豪_程序代码\Debug\SCU大冒险.lib" /MACHINE:X86 Debug\acllib.obj
+         Debug\Base.obj
+         Debug\Huaxi.obj
+         Debug\main.obj
+         Debug\Prop.obj
+         Debug\SCU.obj
+         Debug\STUCD.obj
+         Debug\UESTC.obj
+         LINK : 没有找到 D:\newdesktop\2018051404015_岳子豪_程序代码\Debug\SCU大冒险.exe 或上一个增量链接没有生成它；正在执行完全链接
+         SCU大冒险.vcxproj -> D:\newdesktop\2018051404015_岳子豪_程序代码\Debug\SCU大冒险.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\newdesktop\2018051404015_岳子豪_程序代码\Debug\SCU大冒险.exe;#1" /manifest "Debug\SCU大冒险.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\SCU大冒险.unsuccessfulbuild”。
+         正在对“Debug\SCU大冒险.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\newdesktop\2018051404015_岳子豪_程序代码\SCU大冒险\SCU大冒险.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.96

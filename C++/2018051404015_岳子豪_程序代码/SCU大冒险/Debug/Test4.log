@@ -1,0 +1,38 @@
+﻿生成启动时间为 2020/12/21 11:41:01。
+     1>项目“D:\newdesktop\Test4\Test4\Test4\Test4.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Test4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\newdesktop\test4\test4\test4\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\test4\test4\test4\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\test4\test4\test4\huaxi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\test4\test4\test4\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\test4\test4\test4\uestc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\test4\test4\test4\scu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\newdesktop\test4\test4\test4\main.cpp(79): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\newdesktop\test4\test4\test4\main.cpp(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\newdesktop\Test4\Test4\Debug\Test4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Test4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\newdesktop\Test4\Test4\Debug\Test4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\newdesktop\Test4\Test4\Debug\Test4.lib" /MACHINE:X86 Debug\acllib.obj
+         Debug\STUCD.obj
+         Debug\Huaxi.obj
+         Debug\Base.obj
+         Debug\main.obj
+         Debug\Prop.obj
+         Debug\UESTC.obj
+         Debug\SCU.obj
+         LINK : 没有找到 D:\newdesktop\Test4\Test4\Debug\Test4.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Test4.vcxproj -> D:\newdesktop\Test4\Test4\Debug\Test4.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\newdesktop\Test4\Test4\Debug\Test4.exe;#1" /manifest Debug\Test4.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Test4.unsuccessfulbuild”。
+         正在对“Debug\Test4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\newdesktop\Test4\Test4\Test4\Test4.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.65
